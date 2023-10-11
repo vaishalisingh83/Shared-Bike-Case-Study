@@ -1,8 +1,7 @@
 # Shared-Bike-Case-Study
-Linear regression for Shared Bike Case Study
-**build a multiple linear regression model for the prediction of demand for shared bikes. **
-
-**General Information**
+This case study is based on Predictive Analytics and Linear Regression(Machine Learning)
+consists of a seperate pdf file that has answers to all the subjective questions that were given to us as part of the assignment.
+Language used : Python for Data Science .
 
 **Business Problem**
 
@@ -14,7 +13,6 @@ To understand the demand for shared bikes among the people after this ongoing qu
 To identify the variables affecting their revenues i.e. Which variables are significant in predicting the demand for shared bikes.
 To know the accuracy of the model, i.e. How well those variables describe the bike demands
 They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
-
 
 ## Conclusions
 
